@@ -1,4 +1,4 @@
-# Ejemplo curso udemy Vue 3
+# Ejemplo curso udemy Vue 3 con ignacio bluuweb
 
 - [Preview page](https://proyectovuesdos.netlify.app/)
 
