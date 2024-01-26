@@ -2,6 +2,8 @@
 
 - [Preview page](https://proyectovuesdos.netlify.app/)
 
+# Christopher Eduardo Corona Arredondo
+
 Este es un ejemplo del curso de udemy de vue.js 3, trabajando con componentes y el composition api.
 
 ## Project Setup
